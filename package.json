@@ -11,7 +11,7 @@
     "ci-lint": "eslint -f checkstyle index.js > checkstyle-result.xml"
   },
   "keywords": [],
-  "author": "Marc Harter <wavded@gmail.com>",
+  "author": "Vadim Savelyev <vadim@davis.software>",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^0.10.0",
