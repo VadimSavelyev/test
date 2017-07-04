@@ -1,3 +1,3 @@
 # test
 Test repository to make sure jen works
-[![Build Status](https://cidd.davis.software/buildStatus/icon?job=Test Project)](https://cidd.davis.software/job/Test Project)
+<html><img src="https://cidd.davis.software/buildStatus/icon?job=Test%20Project"></html>
